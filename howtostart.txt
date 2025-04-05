@@ -1,0 +1,4 @@
+1. Run docker on your local machine
+2. Run springboot with          ./mvnw spring-boot:run
+3. Set up docker with 
+4. Set up docker, zookeper, kafka and dezebium with         docker-compose up -d (dependencies set in docker-compose.yml)
